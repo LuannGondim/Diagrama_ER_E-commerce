@@ -6,7 +6,7 @@ Este repositório apresenta o **Diagrama de Entidade-Relacionamento (DER)** que 
 
 
 ## 🌟 **Sobre o Projeto**
-Este trabalho foi desenvolvido como parte do curso **"Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE"**, ministrado por [Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-ds/), no **Bootcamp da [Suzano](https://www.linkedin.com/company/suzano/posts/?feedView=all) - Análise de Dados com Power BI**, em parceria com a [DIO](https://www.dio.me/).  
+Este trabalho foi desenvolvido como parte do curso **"Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE"**, ministrado por [Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-ds/), no **Bootcamp da [Suzano](https://www.linkedin.com/company/suzano/posts/?feedView=all) - Análise de Dados com Power BI**, em parceria com a [DIO](https://www.dio.me/). 
 
 O objetivo do projeto é construir um diagrama ER de um E-commerce a partir do modelo proposto no curso, refinando-o nos seguintes aspectos:
 - Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
