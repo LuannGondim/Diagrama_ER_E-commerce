@@ -18,7 +18,7 @@ O objetivo do projeto é construir um diagrama ER de um E-commerce a partir do m
 ## 📈 Visualização do Diagrama
 
 <p align="center">
-   <img src="./assets/diagrama/diagrama_e-commerce.png" alt="Diagrama ER">
+   <img src=".assets/diagrama/Diagrama ER - E-Commerce.png" alt="Diagrama ER">
 </p>
 
 
